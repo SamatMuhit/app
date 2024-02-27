@@ -1,3 +1,3 @@
 # special app
 # some coments to practis
-# changes on remote repository 
+# changes on local and on remote repository
